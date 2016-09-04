@@ -1,0 +1,6 @@
+＃OS file
+.DS_Store
+
+# vagrant box
+.vagrant
+
